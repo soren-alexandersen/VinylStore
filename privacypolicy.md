@@ -1,8 +1,8 @@
-**Privacy Policy for Vinyl Collection**
+**Privacy Policy for Vinyl Sessions**
 
 *Last updated: November 16 2025*
 
-Vinyl Collection (“we”, “us”, or “our”) is a personal vinyl collection app designed to help you manage your own music library on your own devices. We take your privacy seriously and aim to collect and process as little personal data as possible.
+Vinyl Sessions (“we”, “us”, or “our”) is a personal Vinyl Sessions app designed to help you manage your own music library on your own devices. We take your privacy seriously and aim to collect and process as little personal data as possible.
 
 This Privacy Policy explains what information the app processes, how it is used, and what control you have.
 
@@ -10,9 +10,9 @@ If you have any questions, you can contact us at soren@friis.io
 
 **1. Overview**
 
-We do not run our own servers that store your vinyl collection data.
+We do not run our own servers that store your Vinyl Sessions data.
 
-Your vinyl collection, notes, ratings and related information are stored:
+Your Vinyl Sessions, notes, ratings and related information are stored:
 
 Locally on your device, and
 
@@ -27,7 +27,7 @@ Some limited information may be processed by Apple and by external services that
 **2. Information we process**
 **2.1 Collection data you enter**
 
-Vinyl Collection lets you store information about your vinyl records, such as:
+Vinyl Sessions lets you store information about your vinyl records, such as:
 
 Album title, artist, genre, year/decade
 
@@ -68,7 +68,7 @@ These third-party services operate under their own privacy policies.
 
 **2.3 Diagnostics & crash data**
 
-Depending on your device settings, Apple may collect anonymous crash reports and diagnostics for apps, including Vinyl Collection.
+Depending on your device settings, Apple may collect anonymous crash reports and diagnostics for apps, including Vinyl Sessions.
 
 If you choose to share this data with app developers in your iOS settings:
 
@@ -82,9 +82,9 @@ We do not currently integrate any additional third-party analytics SDKs.
 
 **3. How we use your data**
 
-We use the information processed by Vinyl Collection strictly to:
+We use the information processed by Vinyl Sessions strictly to:
 
-Provide core functionality (managing your vinyl collection and wishlist)
+Provide core functionality (managing your Vinyl Sessions and wishlist)
 
 Recognize albums and fetch metadata when you request it
 
@@ -135,13 +135,13 @@ If you would like us to assist with data questions related to the app, you can c
 
 **6. Children’s privacy**
 
-Vinyl Collection is not directed to children under 13 (or the equivalent minimum age in your jurisdiction), and we do not knowingly collect personal information from children.
+Vinyl Sessions is not directed to children under 13 (or the equivalent minimum age in your jurisdiction), and we do not knowingly collect personal information from children.
 
 If you are a parent or guardian and believe your child has provided personal information through the app, please contact us so we can help you understand what data may be stored on the device or in iCloud.
 
 **7. Third-party links and services**
 
-Vinyl Collection may use or link to third-party services (such as music databases or APIs) only for functionality like album identification and metadata lookup. These services have their own privacy policies and practices, which we do not control.
+Vinyl Sessions may use or link to third-party services (such as music databases or APIs) only for functionality like album identification and metadata lookup. These services have their own privacy policies and practices, which we do not control.
 
 We recommend reviewing the privacy policies of any third-party services you use through the app.
 
@@ -161,7 +161,7 @@ When we do, we will update the “Last updated” date at the top. Significant c
 
 **9. Contact**
 
-If you have any questions or concerns about this Privacy Policy or how Vinyl Collection handles your data, please contact:
+If you have any questions or concerns about this Privacy Policy or how Vinyl Sessions handles your data, please contact:
 
 Søren Alexandersen
 Email: soren@friis.io
