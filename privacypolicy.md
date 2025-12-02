@@ -159,7 +159,50 @@ Need to comply with new legal requirements
 
 When we do, we will update the “Last updated” date at the top. Significant changes may also be announced in the app or via release notes.
 
-**9. Contact**
+
+**9. Subscription & Payment Information**
+
+### In-App Purchases
+Vinyl Sessions offers optional paid subscriptions managed through Apple's App Store:
+
+**What We Collect:**
+- We do NOT collect or store your payment information
+- All payments are processed securely by Apple
+- We only receive confirmation of your subscription status from Apple's servers
+
+**Subscription Data:**
+- Your subscription tier (Free, Collector, or Super Collector)
+- Subscription start date and renewal status
+- This information is stored locally on your device and in iCloud (if enabled)
+
+**No Personal Financial Data:**
+- Credit card numbers, billing addresses, and payment methods are handled exclusively by Apple
+- We never have access to your financial information
+- We cannot see your purchase history beyond what tier you've subscribed to
+
+### Auto-Renewal
+- Subscriptions automatically renew unless canceled 24 hours before the renewal date
+- You can manage or cancel subscriptions in your Apple ID settings
+- Cancellation takes effect at the end of the current billing period
+
+### Lifetime Purchases
+- One-time lifetime purchases are non-refundable per Apple's standard policy
+- Lifetime access is tied to your Apple ID and can be restored on new devices
+
+### Refunds
+- Refund requests are handled by Apple through the App Store
+- Contact Apple Support for refund inquiries
+- We cannot process refunds directly
+
+### Data Portability
+- Your collection data remains yours regardless of subscription status
+- Export your collection as JSON backup anytime
+- Downgrading retains your existing albums (grandfathered access)
+
+For questions about billing, contact: soren@friis.io
+
+
+**10. Contact**
 
 If you have any questions or concerns about this Privacy Policy or how Vinyl Sessions handles your data, please contact:
 
